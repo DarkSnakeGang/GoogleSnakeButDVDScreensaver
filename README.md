@@ -2,7 +2,7 @@
 winged mode is a dvd screensaver type beat
 
 ## Enable the Mod
-Click the bookmark (you can edit the end of it to call the function differently for customization) or type in console:
+Click the bookmark (you can edit the end of it to call the function differently for customization) or paste the code from `dvd.js` into the console, then type in console:
 ```
 window.snake.dvd({
   logo:         boolean,   // true/false, whether to use the dvd logos--uses logo if true, simply changes apple type on hitting wall if false
